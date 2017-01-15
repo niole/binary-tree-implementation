@@ -1,3 +1,5 @@
+//binary tree made for the express reason of getting the max
+//value of an array
 var assert = require('chai').assert;
 
 function isNumber(n) {
